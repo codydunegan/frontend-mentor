@@ -52,6 +52,7 @@ header > img {
 
 .title:hover {
   color: var(--clr-primary-600);
+  cursor: pointer;
 }
 
 .title {
